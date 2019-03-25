@@ -9,11 +9,13 @@
     Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
 
     <Grid>
+        <Button Content="Button" HorizontalAlignment="Left" Margin="480,160,0,0" VerticalAlignment="Top"/>
         <Button Content="Button" HorizontalAlignment="Left" Margin="824,384,0,0" VerticalAlignment="Top"/>
         <Button Content="Button" HorizontalAlignment="Left" Margin="174,334,0,0" VerticalAlignment="Top" Height="237" Width="236"/>
         <Button Content="Button" HorizontalAlignment="Left" Margin="984,571,0,0" VerticalAlignment="Top"/>
         <Border BorderBrush="Black" HorizontalAlignment="Left" Height="100" Margin="829,334,0,0" VerticalAlignment="Top" Width="100"/>
         
+
 
 
     </Grid>
